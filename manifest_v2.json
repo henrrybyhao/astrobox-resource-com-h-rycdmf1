@@ -1,0 +1,76 @@
+{
+  "item": {
+    "id": "com.h.rycdmf",
+    "restype": "quick_app",
+    "name": "日语单词",
+    "description": "一个日语单词应用。需要从插件导入，插件中自带，初中，高中日语单词。且支持文件导入和手动导入支持创建分类和子分类，方便管理单词。单词不按课本来，支持搜索单词进行导入，在线查询暂不可用。制作不易希望可以多多赞助",
+    "preview": [
+      "media/单词列表-带壳.png",
+      "media/redmi_watch-2026-09-13-10-06-21.png",
+      "media/redmi_watch-2026-09-13-10-06-25.png",
+      "media/xiaomi_band_10-2026-09-13-10-05-56.png",
+      "media/xiaomi_band_10-2026-09-13-10-06-00.png",
+      "media/xiaomi_band_10-2026-09-13-10-06-05.png",
+      "media/xiaomi_band_10-2026-09-13-10-06-13.png",
+      "media/xiaomi_band_pro-2026-09-13-10-06-31.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/mmexport1789264216420.jpg",
+    "author": [
+      {
+        "name": "2848944925",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "赞助链接",
+      "url": "https://ifdian.net/order/create?user_id=749796b29f4c11ef89d552540025c377&remark=&affiliate_code=&fr=afcom",
+      "icon": "Bank"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.7",
+      "file_name": "downloads/日语单词-JSC包.rpk",
+      "versionCode": 8
+    },
+    "xmrw5xring": {
+      "version": "1.0.7",
+      "file_name": "downloads/日语单词-JSC包.rpk",
+      "versionCode": 8
+    },
+    "xmrw6": {
+      "version": "1.0.7",
+      "file_name": "downloads/日语单词-JSC包.rpk",
+      "versionCode": 8
+    },
+    "xmb10": {
+      "version": "1.0.7",
+      "file_name": "downloads/日语单词-JSC包.rpk",
+      "versionCode": 8
+    },
+    "xmb10nfc": {
+      "version": "1.0.7",
+      "file_name": "downloads/日语单词-JSC包.rpk",
+      "versionCode": 8
+    },
+    "xmb10p": {
+      "version": "1.0.7",
+      "file_name": "downloads/日语单词-JSC包.rpk",
+      "versionCode": 8
+    },
+    "xmb9": {
+      "version": "1.0.7",
+      "file_name": "downloads/日语单词-JSC包.rpk",
+      "versionCode": 8
+    },
+    "xmb9p": {
+      "version": "1.0.7",
+      "file_name": "downloads/日语单词-JSC包.rpk",
+      "versionCode": 8
+    }
+  },
+  "ext": {}
+}
